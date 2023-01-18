@@ -1,3 +1,4 @@
+/* By Tag */
 body {
     background-color: #EAF6F6;
 }
@@ -15,9 +16,14 @@ h1 {
 h2 {
     color: #A4BE7B;
 }
-image {
-    background-color: black;
+/* By Class */
+.Phone {
+    font-size: 26px;
 }
+.Thankyou:hover {
+    background-color: gold;
+}
+/* By id */
 #landline {
     border-radius: 100px;
 }
